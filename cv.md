@@ -42,3 +42,24 @@ ___
 + Creating reports for customers
 + Teaching juniors
 ___
+## Education 
+
+
++ **Belarusian State University**
+
+  Bachelor's degree
+
+  Mathematics and Computer Science (2012 - 2017)
+
+Online-courses:
+
++ **Introduction to HTML** ([Codecademy](https://www.codecademy.com/profiles/1428746149))
+
++ **Learn CSS** ([Codecademy](https://www.codecademy.com/profiles/1428746149))
+
+___
+## English 
+
+*A2+ (Pre-Intermediate)*
+
+I learnt English at school and at the university. Now I'm learning English with tutor.
