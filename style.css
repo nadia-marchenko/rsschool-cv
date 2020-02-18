@@ -1,0 +1,41 @@
+body {
+  max-width: 1024px;
+  font-size: 16px;
+  font-family: "Montserrat", "Arial", sans-serif;
+  line-height: 1.5;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2,
+h3 {
+  padding-top: 20px;
+  font-size: 35px;
+}
+
+table,
+th,
+td {
+  padding: 10px;
+  border: 1px solid gray;
+}
+
+ul,
+li {
+  list-style-type: disc;
+  }
+
+ul {
+  padding-left: 2em;
+}
+
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: bold;
+}
